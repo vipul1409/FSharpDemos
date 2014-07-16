@@ -1,0 +1,1 @@
+This project contains list of F# programs used to learn F#.
